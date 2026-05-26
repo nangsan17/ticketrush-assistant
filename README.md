@@ -1,1 +1,3 @@
 # ticketrush-assistant
+Terminal 1: cd client && npm run dev
+Terminal 2: cd server && node index.js
